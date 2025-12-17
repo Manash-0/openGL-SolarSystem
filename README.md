@@ -1,3 +1,11 @@
+Alternatively, you may download the ZIP file from Google Drive using the link below.
+The core implementation and logic can be understood by referring to the main solar.cpp file.
+Planet textures (.bmp) can be obtained online by downloading .jpg/.jpeg images and converting them to .bmp format using any online image converter.
+Texture loading is handled using stb_image, which is already included in the project.
+**Google Drive ZIP**:  
+```
+https://drive.google.com/file/d/1EYmbWf3DQqaP7cvm--cXrmMA49FRWegL/view
+```
 # Interactive Solar System Simulation (OpenGL + C++)
 
 A **real-time, interactive Solar System simulation** built using **Modern OpenGL** and **C++**, featuring physically inspired planetary motion, advanced post-processing effects, geographic exploration, and a dynamic UI using **Dear ImGui**.
