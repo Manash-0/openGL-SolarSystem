@@ -135,3 +135,10 @@ g++ src/solar.cpp src/glad.c \
 ```
 ./Solar.exe
 ```
+###images
+
+<img width="1909" height="1077" alt="Screenshot 2025-12-17 234214" src="https://github.com/user-attachments/assets/fd0b7055-2799-45b1-b439-f4e8c95d0137" />
+<img width="1912" height="1079" alt="Screenshot 2025-12-17 234226" src="https://github.com/user-attachments/assets/52501152-9e1f-47bb-9143-ed503b02df76" />
+
+
+
